@@ -11,11 +11,12 @@
 
 ## 已包含公司
 
-目前已整理 31 家公司：
+目前已整理 32 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
 | 360集团 | [360集团.md](360集团.md) |
+| BOSS直聘 | [BOSS直聘.md](BOSS直聘.md) |
 | OPPO | [OPPO.md](OPPO.md) |
 | SHEIN | [SHEIN.md](SHEIN.md) |
 | Shopee | [Shopee.md](Shopee.md) |
