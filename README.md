@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 53 家公司：
+目前已整理 54 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -22,6 +22,7 @@
 | IBM | [IBM.md](IBM.md) |
 | Meta | [Meta.md](Meta.md) |
 | OPPO | [OPPO.md](OPPO.md) |
+| PayPal | [PayPal.md](PayPal.md) |
 | SAP | [SAP.md](SAP.md) |
 | Salesforce | [Salesforce.md](Salesforce.md) |
 | SHEIN | [SHEIN.md](SHEIN.md) |
