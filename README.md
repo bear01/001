@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 48 家公司：
+目前已整理 49 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -20,6 +20,7 @@
 | BOSS直聘 | [BOSS直聘.md](BOSS直聘.md) |
 | Meta | [Meta.md](Meta.md) |
 | OPPO | [OPPO.md](OPPO.md) |
+| Salesforce | [Salesforce.md](Salesforce.md) |
 | SHEIN | [SHEIN.md](SHEIN.md) |
 | Shopee | [Shopee.md](Shopee.md) |
 | vivo | [vivo.md](vivo.md) |
