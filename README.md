@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 63 家公司：
+目前已整理 64 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -32,6 +32,7 @@
 | ServiceNow | [ServiceNow.md](ServiceNow.md) |
 | SHEIN | [SHEIN.md](SHEIN.md) |
 | Shopee | [Shopee.md](Shopee.md) |
+| Shopify | [Shopify.md](Shopify.md) |
 | Snowflake | [Snowflake.md](Snowflake.md) |
 | Stripe | [Stripe.md](Stripe.md) |
 | Uber | [Uber.md](Uber.md) |
