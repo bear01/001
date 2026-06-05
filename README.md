@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 60 家公司：
+目前已整理 61 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -31,6 +31,7 @@
 | Salesforce | [Salesforce.md](Salesforce.md) |
 | SHEIN | [SHEIN.md](SHEIN.md) |
 | Shopee | [Shopee.md](Shopee.md) |
+| Snowflake | [Snowflake.md](Snowflake.md) |
 | Stripe | [Stripe.md](Stripe.md) |
 | Uber | [Uber.md](Uber.md) |
 | vivo | [vivo.md](vivo.md) |
