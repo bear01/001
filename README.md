@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 61 家公司：
+目前已整理 62 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -29,6 +29,7 @@
 | PayPal | [PayPal.md](PayPal.md) |
 | SAP | [SAP.md](SAP.md) |
 | Salesforce | [Salesforce.md](Salesforce.md) |
+| ServiceNow | [ServiceNow.md](ServiceNow.md) |
 | SHEIN | [SHEIN.md](SHEIN.md) |
 | Shopee | [Shopee.md](Shopee.md) |
 | Snowflake | [Snowflake.md](Snowflake.md) |
