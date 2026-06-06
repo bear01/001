@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 72 家公司：
+目前已整理 73 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -27,6 +27,7 @@
 | Datadog | [Datadog.md](Datadog.md) |
 | Elastic | [Elastic.md](Elastic.md) |
 | GitHub | [GitHub.md](GitHub.md) |
+| HashiCorp | [HashiCorp.md](HashiCorp.md) |
 | IBM | [IBM.md](IBM.md) |
 | Meta | [Meta.md](Meta.md) |
 | MongoDB | [MongoDB.md](MongoDB.md) |
