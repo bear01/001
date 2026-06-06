@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 64 家公司：
+目前已整理 65 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -21,6 +21,7 @@
 | 亚马逊 | [亚马逊.md](亚马逊.md) |
 | BOSS直聘 | [BOSS直聘.md](BOSS直聘.md) |
 | Cloudflare | [Cloudflare.md](Cloudflare.md) |
+| Coinbase | [Coinbase.md](Coinbase.md) |
 | Databricks | [Databricks.md](Databricks.md) |
 | IBM | [IBM.md](IBM.md) |
 | Meta | [Meta.md](Meta.md) |
