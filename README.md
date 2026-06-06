@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 76 家公司：
+目前已整理 77 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -44,6 +44,7 @@
 | SHEIN | [SHEIN.md](SHEIN.md) |
 | Shopee | [Shopee.md](Shopee.md) |
 | Shopify | [Shopify.md](Shopify.md) |
+| Slack | [Slack.md](Slack.md) |
 | Snowflake | [Snowflake.md](Snowflake.md) |
 | Stripe | [Stripe.md](Stripe.md) |
 | Twilio | [Twilio.md](Twilio.md) |
