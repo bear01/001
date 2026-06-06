@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 81 家公司：
+目前已整理 82 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -32,6 +32,7 @@
 | GitHub | [GitHub.md](GitHub.md) |
 | HashiCorp | [HashiCorp.md](HashiCorp.md) |
 | IBM | [IBM.md](IBM.md) |
+| Intel | [Intel.md](Intel.md) |
 | LinkedIn | [LinkedIn.md](LinkedIn.md) |
 | Meta | [Meta.md](Meta.md) |
 | MongoDB | [MongoDB.md](MongoDB.md) |
