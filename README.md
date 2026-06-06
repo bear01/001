@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 77 家公司：
+目前已整理 78 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -31,6 +31,7 @@
 | GitHub | [GitHub.md](GitHub.md) |
 | HashiCorp | [HashiCorp.md](HashiCorp.md) |
 | IBM | [IBM.md](IBM.md) |
+| LinkedIn | [LinkedIn.md](LinkedIn.md) |
 | Meta | [Meta.md](Meta.md) |
 | MongoDB | [MongoDB.md](MongoDB.md) |
 | Netflix | [Netflix.md](Netflix.md) |
