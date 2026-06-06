@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 71 家公司：
+目前已整理 72 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -25,6 +25,7 @@
 | Coinbase | [Coinbase.md](Coinbase.md) |
 | Databricks | [Databricks.md](Databricks.md) |
 | Datadog | [Datadog.md](Datadog.md) |
+| Elastic | [Elastic.md](Elastic.md) |
 | GitHub | [GitHub.md](GitHub.md) |
 | IBM | [IBM.md](IBM.md) |
 | Meta | [Meta.md](Meta.md) |
