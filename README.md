@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 78 家公司：
+目前已整理 79 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -50,6 +50,7 @@
 | Stripe | [Stripe.md](Stripe.md) |
 | Twilio | [Twilio.md](Twilio.md) |
 | Uber | [Uber.md](Uber.md) |
+| VMware | [VMware.md](VMware.md) |
 | Zoom | [Zoom.md](Zoom.md) |
 | vivo | [vivo.md](vivo.md) |
 | 中兴通讯 | [中兴通讯.md](中兴通讯.md) |
