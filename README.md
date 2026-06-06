@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 73 家公司：
+目前已整理 74 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -26,6 +26,7 @@
 | Databricks | [Databricks.md](Databricks.md) |
 | Datadog | [Datadog.md](Datadog.md) |
 | Elastic | [Elastic.md](Elastic.md) |
+| Figma | [Figma.md](Figma.md) |
 | GitHub | [GitHub.md](GitHub.md) |
 | HashiCorp | [HashiCorp.md](HashiCorp.md) |
 | IBM | [IBM.md](IBM.md) |
