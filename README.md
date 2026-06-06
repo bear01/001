@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 70 家公司：
+目前已整理 71 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -32,6 +32,7 @@
 | Netflix | [Netflix.md](Netflix.md) |
 | OPPO | [OPPO.md](OPPO.md) |
 | OpenAI | [OpenAI.md](OpenAI.md) |
+| Palantir | [Palantir.md](Palantir.md) |
 | PayPal | [PayPal.md](PayPal.md) |
 | SAP | [SAP.md](SAP.md) |
 | Salesforce | [Salesforce.md](Salesforce.md) |
