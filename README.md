@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 85 家公司：
+目前已整理 86 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -22,6 +22,7 @@
 | Arm | [Arm.md](Arm.md) |
 | Atlassian | [Atlassian.md](Atlassian.md) |
 | 亚马逊 | [亚马逊.md](亚马逊.md) |
+| Bloomberg | [Bloomberg.md](Bloomberg.md) |
 | BOSS直聘 | [BOSS直聘.md](BOSS直聘.md) |
 | Cloudflare | [Cloudflare.md](Cloudflare.md) |
 | Cisco | [Cisco.md](Cisco.md) |
