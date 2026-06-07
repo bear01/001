@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 90 家公司：
+目前已整理 91 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -42,6 +42,7 @@
 | Mastercard | [Mastercard.md](Mastercard.md) |
 | Meta | [Meta.md](Meta.md) |
 | MongoDB | [MongoDB.md](MongoDB.md) |
+| Morgan Stanley | [Morgan Stanley.md](Morgan Stanley.md) |
 | Netflix | [Netflix.md](Netflix.md) |
 | OPPO | [OPPO.md](OPPO.md) |
 | OpenAI | [OpenAI.md](OpenAI.md) |
