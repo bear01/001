@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 89 家公司：
+目前已整理 90 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -33,6 +33,7 @@
 | Elastic | [Elastic.md](Elastic.md) |
 | Figma | [Figma.md](Figma.md) |
 | GitHub | [GitHub.md](GitHub.md) |
+| Goldman Sachs | [Goldman Sachs.md](Goldman Sachs.md) |
 | HashiCorp | [HashiCorp.md](HashiCorp.md) |
 | IBM | [IBM.md](IBM.md) |
 | Intel | [Intel.md](Intel.md) |
