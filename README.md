@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 96 家公司：
+目前已整理 97 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -51,6 +51,7 @@
 | OpenAI | [OpenAI.md](OpenAI.md) |
 | Oracle | [Oracle.md](Oracle.md) |
 | Palantir | [Palantir.md](Palantir.md) |
+| Palo Alto Networks | [Palo Alto Networks.md](Palo Alto Networks.md) |
 | PayPal | [PayPal.md](PayPal.md) |
 | Qualcomm | [Qualcomm.md](Qualcomm.md) |
 | Red Hat | [Red Hat.md](Red Hat.md) |
