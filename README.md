@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 94 家公司：
+目前已整理 95 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -66,6 +66,7 @@
 | Uber | [Uber.md](Uber.md) |
 | Visa | [Visa.md](Visa.md) |
 | VMware | [VMware.md](VMware.md) |
+| Workday | [Workday.md](Workday.md) |
 | Zoom | [Zoom.md](Zoom.md) |
 | vivo | [vivo.md](vivo.md) |
 | 中兴通讯 | [中兴通讯.md](中兴通讯.md) |
