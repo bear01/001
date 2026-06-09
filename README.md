@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 99 家公司：
+目前已整理 100 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -49,6 +49,7 @@
 | Morgan Stanley | [Morgan Stanley.md](Morgan Stanley.md) |
 | Netflix | [Netflix.md](Netflix.md) |
 | OPPO | [OPPO.md](OPPO.md) |
+| Okta | [Okta.md](Okta.md) |
 | OpenAI | [OpenAI.md](OpenAI.md) |
 | Oracle | [Oracle.md](Oracle.md) |
 | Palantir | [Palantir.md](Palantir.md) |
