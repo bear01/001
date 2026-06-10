@@ -11,13 +11,14 @@
 
 ## 已包含公司
 
-目前已整理 101 家公司：
+目前已整理 102 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
 | 360集团 | [360集团.md](360集团.md) |
 | Adobe | [Adobe.md](Adobe.md) |
 | Adyen | [Adyen.md](Adyen.md) |
+| Akamai | [Akamai.md](Akamai.md) |
 | AMD | [AMD.md](AMD.md) |
 | Airbnb | [Airbnb.md](Airbnb.md) |
 | Arm | [Arm.md](Arm.md) |
