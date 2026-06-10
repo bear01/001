@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 118 家公司：
+目前已整理 119 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -29,6 +29,7 @@
 | Block | [Block.md](Block.md) |
 | BOSS直聘 | [BOSS直聘.md](BOSS直聘.md) |
 | Capital One | [Capital One.md](Capital One.md) |
+| Cerebras | [Cerebras.md](Cerebras.md) |
 | Cloudflare | [Cloudflare.md](Cloudflare.md) |
 | Cisco | [Cisco.md](Cisco.md) |
 | Coinbase | [Coinbase.md](Coinbase.md) |
