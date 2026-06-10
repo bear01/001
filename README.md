@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 110 家公司：
+目前已整理 111 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -46,6 +46,7 @@
 | Grab | [Grab.md](Grab.md) |
 | HashiCorp | [HashiCorp.md](HashiCorp.md) |
 | IBM | [IBM.md](IBM.md) |
+| Instacart | [Instacart.md](Instacart.md) |
 | Intel | [Intel.md](Intel.md) |
 | JPMorgan Chase | [JPMorgan Chase.md](JPMorgan Chase.md) |
 | LinkedIn | [LinkedIn.md](LinkedIn.md) |
