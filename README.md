@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 111 家公司：
+目前已整理 112 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -32,6 +32,7 @@
 | Cloudflare | [Cloudflare.md](Cloudflare.md) |
 | Cisco | [Cisco.md](Cisco.md) |
 | Coinbase | [Coinbase.md](Coinbase.md) |
+| Confluent | [Confluent.md](Confluent.md) |
 | Coupang | [Coupang.md](Coupang.md) |
 | CrowdStrike | [CrowdStrike.md](CrowdStrike.md) |
 | Databricks | [Databricks.md](Databricks.md) |
