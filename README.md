@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 120 家公司：
+目前已整理 121 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -54,6 +54,7 @@
 | Instacart | [Instacart.md](Instacart.md) |
 | Intel | [Intel.md](Intel.md) |
 | JPMorgan Chase | [JPMorgan Chase.md](JPMorgan Chase.md) |
+| Lambda Labs | [Lambda Labs.md](Lambda Labs.md) |
 | LinkedIn | [LinkedIn.md](LinkedIn.md) |
 | Mastercard | [Mastercard.md](Mastercard.md) |
 | Mercado Libre | [Mercado Libre.md](Mercado Libre.md) |
