@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 121 家公司：
+目前已整理 122 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -32,6 +32,7 @@
 | Cerebras | [Cerebras.md](Cerebras.md) |
 | Cloudflare | [Cloudflare.md](Cloudflare.md) |
 | Cisco | [Cisco.md](Cisco.md) |
+| Cohere | [Cohere.md](Cohere.md) |
 | Coinbase | [Coinbase.md](Coinbase.md) |
 | Confluent | [Confluent.md](Confluent.md) |
 | CoreWeave | [CoreWeave.md](CoreWeave.md) |
