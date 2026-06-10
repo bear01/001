@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 105 家公司：
+目前已整理 106 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -59,6 +59,7 @@
 | Palantir | [Palantir.md](Palantir.md) |
 | Palo Alto Networks | [Palo Alto Networks.md](Palo Alto Networks.md) |
 | PayPal | [PayPal.md](PayPal.md) |
+| Pinterest | [Pinterest.md](Pinterest.md) |
 | Qualcomm | [Qualcomm.md](Qualcomm.md) |
 | Red Hat | [Red Hat.md](Red Hat.md) |
 | SAP | [SAP.md](SAP.md) |
