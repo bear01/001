@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 117 家公司：
+目前已整理 118 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -46,6 +46,7 @@
 | GitLab | [GitLab.md](GitLab.md) |
 | Goldman Sachs | [Goldman Sachs.md](Goldman Sachs.md) |
 | Grab | [Grab.md](Grab.md) |
+| Groq | [Groq.md](Groq.md) |
 | HashiCorp | [HashiCorp.md](HashiCorp.md) |
 | Hugging Face | [Hugging Face.md](Hugging Face.md) |
 | IBM | [IBM.md](IBM.md) |
