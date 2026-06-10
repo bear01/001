@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 112 家公司：
+目前已整理 113 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -69,6 +69,7 @@
 | Red Hat | [Red Hat.md](Red Hat.md) |
 | SAP | [SAP.md](SAP.md) |
 | Salesforce | [Salesforce.md](Salesforce.md) |
+| Scale AI | [Scale AI.md](Scale AI.md) |
 | ServiceNow | [ServiceNow.md](ServiceNow.md) |
 | SHEIN | [SHEIN.md](SHEIN.md) |
 | Shopee | [Shopee.md](Shopee.md) |
