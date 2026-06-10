@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 115 家公司：
+目前已整理 116 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -33,6 +33,7 @@
 | Cisco | [Cisco.md](Cisco.md) |
 | Coinbase | [Coinbase.md](Coinbase.md) |
 | Confluent | [Confluent.md](Confluent.md) |
+| CoreWeave | [CoreWeave.md](CoreWeave.md) |
 | Coupang | [Coupang.md](Coupang.md) |
 | CrowdStrike | [CrowdStrike.md](CrowdStrike.md) |
 | Databricks | [Databricks.md](Databricks.md) |
