@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 127 家公司：
+目前已整理 128 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -88,6 +88,7 @@
 | Slack | [Slack.md](Slack.md) |
 | Snowflake | [Snowflake.md](Snowflake.md) |
 | Splunk | [Splunk.md](Splunk.md) |
+| Stability AI | [Stability AI.md](Stability AI.md) |
 | Stripe | [Stripe.md](Stripe.md) |
 | Together AI | [Together AI.md](Together AI.md) |
 | Twilio | [Twilio.md](Twilio.md) |
