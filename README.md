@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 125 家公司：
+目前已整理 126 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -96,6 +96,7 @@
 | VMware | [VMware.md](VMware.md) |
 | Waymo | [Waymo.md](Waymo.md) |
 | Workday | [Workday.md](Workday.md) |
+| xAI | [xAI.md](xAI.md) |
 | Zoom | [Zoom.md](Zoom.md) |
 | Zscaler | [Zscaler.md](Zscaler.md) |
 | vivo | [vivo.md](vivo.md) |
