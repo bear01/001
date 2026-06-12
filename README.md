@@ -11,7 +11,7 @@
 
 ## 已包含公司
 
-目前已整理 129 家公司：
+目前已整理 130 家公司：
 
 | 公司 | 文档 |
 | --- | --- |
@@ -38,6 +38,7 @@
 | CoreWeave | [CoreWeave.md](CoreWeave.md) |
 | Coupang | [Coupang.md](Coupang.md) |
 | CrowdStrike | [CrowdStrike.md](CrowdStrike.md) |
+| Cursor | [Cursor.md](Cursor.md) |
 | Databricks | [Databricks.md](Databricks.md) |
 | Datadog | [Datadog.md](Datadog.md) |
 | DeepSeek | [DeepSeek.md](DeepSeek.md) |
